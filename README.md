@@ -44,6 +44,12 @@ This project uses **Logistic Regression** to classify student outcomes (Pass/Fai
 | Recall | 1.0 |
 | Confusion Matrix | [[768, 2], [0, 2230]] |
 
+| Metric | Score |
+|---|---|
+| Accuracy | 83.4% (After fixing leakage) |
+|F1-Score: | 89.2% |
+| Confusion Matrix |[[ 451  319] [ 177 2053]] |
+
 ---
 
 ## 🚀 How to Run
