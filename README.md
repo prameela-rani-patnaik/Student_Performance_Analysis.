@@ -70,7 +70,7 @@ jupyter notebook M1.ipynb
 ## 📈 What I Learned
 
 - Logistic Regression for binary classification
-- Confusion Matrix, Accuracy & Recall metrics
+- Confusion Matrix, Accuracy & Recall & F1-Score
 - Data preprocessing & feature scaling
 - How to identify  **data leakage**
 - Data visualization with Matplotlib
